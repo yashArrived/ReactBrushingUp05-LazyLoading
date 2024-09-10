@@ -2,7 +2,7 @@
 
 
 
-LazyLoading or chunking Lazy loading is a web development technique that delays the loading of certain resources on a page until they are needed, such as when a user interacts with the page. This can improve page load times, reduce bandwidth usage, and improve the user experience. 
+LazyLoading or chunking is a web development technique that delays the loading of certain resources on a page until they are needed, such as when a user interacts with the page. This can improve page load times, reduce bandwidth usage, and improve the user experience. 
  
  Here are some benefits of lazy loading: 
  
